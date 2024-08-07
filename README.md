@@ -1,4 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Lucia 👋
+
+I'm a **computer science student** **@ UofT** and currently on my co-op term working as a **full-stack developer** **@ Bell**. My expertise lies in web development but I'm always interested in delving deeper into other fields of computer science!
+
+### 🔭 I’m currently working on ...
+* A UofT email fraud detection and investigation project with machine learning algorithms
+* The Contractor Dashboard (CDB) for Bell, used by both our internal Bell teams and external contractor partners 🕺💃
+
+### 🌱 I’m currently learning ...
+* CSC311: Introduction to Machine Learning @ UofT
+
+### 👯 I’m looking to collaborate on ...
+* Web development projects with Django
+* Projects involving NLP
+* Anything fun involving code, music, and art 😎
+
+<!-- 
+### 🤔 I’m looking for help with ...
+### 💬 Ask me about ...
+### 😄 Pronouns: ...
+-->
+
+### 📫 How to reach me: ...
+* **Linkedin:** [Lucia Kim](https://www.linkedin.com/in/luci-kim/)
+* **Email:** lucia.kim0816@gmail.com
+
+### ⚡ Fun fact: ...
+* I love to journal! (I take great pride in it)
+* I dedicate each morning to crossing animals (ACNH)
 
 <!--
 **noorilu/noorilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
