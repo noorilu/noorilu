@@ -1,9 +1,10 @@
 ## Hi there, I'm Lucia 👋
 
-I'm a **computer science student** **@ UofT** and currently on my co-op term working as a **full-stack developer** **@ Bell**. My expertise lies in web development but I'm always interested in delving deeper into other fields of computer science!
+I'm a **computer science student** **@ UofT** and currently on my co-op term working as a **full-stack developer** **@ Bell**. My expertise lies in web development but I'm always interested in delving deeper into other fields of computer science! 
+
+**Check out my portpolio here: https://noorilu.github.io/nooriverse/** 
 
 ### 🔭 I’m currently working on ...
-* A UofT email fraud detection and investigation project with machine learning algorithms
 * The Contractor Dashboard (CDB) for Bell, used by both our internal Bell teams and external contractor partners 🕺💃
 
 ### 🌱 I’m currently learning ...
