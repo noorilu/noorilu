@@ -8,7 +8,7 @@ I'm a **computer science student** **@ UofT** and currently on my co-op term wor
 * The Contractor Dashboard (CDB) for Bell, used by both our internal Bell teams and external contractor partners 🕺💃
 
 ### 🌱 I’m currently learning ...
-* CSC311: Introduction to Machine Learning @ UofT
+* CSC404: Introduction to Video Game Design @ UofT
 
 ### 👯 I’m looking to collaborate on ...
 * Web development projects with Django
