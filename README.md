@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucia 👋
 
-I'm a **computer science student** **@ UofT** and currently on my co-op term working as a **full-stack developer** **@ Bell**. My expertise lies in web development but I'm always interested in delving deeper into other fields of computer science! 
+I'm a fourth year **computer science student** **@ UofT** and currently in working part-time as a **full-stack developer** **@ Bell**. My expertise lies in web development but I'm always interested in delving deeper into other fields of computer science! 
 
 **Check out my portpolio here: https://noorilu.github.io/nooriverse/** 
 
