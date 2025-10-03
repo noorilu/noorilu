@@ -15,6 +15,7 @@ I'm a fourth year **computer science student** **@ UofT** and currently in worki
 ### 👯 I’m looking to collaborate on ...
 * Web development projects with Django
 * Projects involving NLP
+* GAMES!!!
 * Anything fun involving code, music, and art 😎
 
 <!-- 
